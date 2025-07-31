@@ -19,8 +19,10 @@
     // Email pattern
     const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
+    // select target for submit button
 const submitButton = document.querySelector('button[type="submit"]');
 
+// Function to update the submit button state
 function updateButtonState() {
   const hasError =
     firstNameError.textContent ||
