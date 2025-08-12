@@ -234,7 +234,7 @@ button:disabled {
         background-image: url("./intro-component-with-signup-form-master/images/bg-intro-mobile.png");
         gap: 4rem;
         width: 23rem;
-        height: 37rem;
+        min-height: 37rem;
     }
     #left {
         width: 100%;
