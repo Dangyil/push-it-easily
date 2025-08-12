@@ -227,7 +227,7 @@ button:disabled {
 }
 @media screen and (max-width: 475px) {
     body {
-        overflow: scroll;
+        overflow: auto;
     }
     #overall {
         flex-direction: column;
