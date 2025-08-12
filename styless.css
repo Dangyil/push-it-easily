@@ -176,7 +176,7 @@ button:disabled {
         gap: 1rem;
 }
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 991px) {
     body {
         overflow: hidden;
     }
@@ -225,7 +225,7 @@ button:disabled {
         width: 65%;
     }
 }
-@media (min-width: 376px) and (max-width: 575px) {
+@media screen and (min-width: 376px) and (max-width: 575px) {
     body {
         overflow: hidden;
     }
