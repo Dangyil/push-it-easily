@@ -227,12 +227,12 @@ button:disabled {
 }
 @media screen and (max-width: 475px) {
     body {
+        background-image: url("./intro-component-with-signup-form-master/images/bg-intro-mobile.png");
         height: 100vh;
         overflow: hidden;
     }
     #overall {
         flex-direction: column;
-        background-image: url("./intro-component-with-signup-form-master/images/bg-intro-mobile.png");
         gap: 4rem;
         width: 23rem;
         height: 100vh;
