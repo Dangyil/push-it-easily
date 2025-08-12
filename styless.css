@@ -233,6 +233,8 @@ button:disabled {
         flex-direction: column;
         background-image: url("./intro-component-with-signup-form-master/images/bg-intro-mobile.png");
         gap: 2rem;
+         width: 23rem;
+        height: 37rem;
     }
     #left {
         width: 100%;
