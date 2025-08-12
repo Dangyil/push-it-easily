@@ -154,7 +154,7 @@ button {
     height: 3rem;
     font-size: 0.875rem;
     color: white;
-    padding: 1rem 1.5rem;
+    padding: 1rem;
     border: none;
     border-radius: 6px;
     cursor: pointer;
@@ -247,11 +247,11 @@ button:disabled {
         justify-content: center;
     }
     #myForm {
-        width: 15rem;
-        height: 20rem;
+        width: 17rem;
+        height: 21rem;
     }
     #purple-box {
-        width: 18.8rem;
+        width: 21rem;
         height: 3rem;
     }
     h1 {
@@ -265,6 +265,7 @@ button:disabled {
     button {
         width: 15.7rem;
         height: 2.7rem;
+        font-size: 0.7rem;
     }
     #see {
         font-size: 0.8rem;
